@@ -1,0 +1,23 @@
+{
+  "name": "mi-portafolio-mvc",
+  "version": "1.0.0",
+  "description": "Realizar un ejemplo de portafolio para poner en practica herramientas como MVC, sistema de ruteo, rutas parametrizadas, express, node.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Katecr/Mi-portafolio-mvc.git"
+  },
+  "keywords": [],
+  "author": "Kate Castaño",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Katecr/Mi-portafolio-mvc/issues"
+  },
+  "homepage": "https://github.com/Katecr/Mi-portafolio-mvc#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
